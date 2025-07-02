@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Orbe",
+        "description": "Jeu d'arcade en défilement horizontal développé en JavaScript.",
+        "techs": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "image": "assets/orbe.png",
+        "link": "https://github.com/tonprofil/orbe"
+    },
+    {
+        "id": 2,
+        "title": "Orb'e",
+        "description": "Site développé avec HTML,PHP et javascript en MVC POO avec sa base de donnée",
+        "techs": [
+            "HTML",
+            "PHP",
+            "SQL",
+            "JavaScript"
+        ],
+        "image": "assets/SiteOrbe.png",
+        "link": "https://tonsite.com"
+    },
+     {
+        "id": 3,
+        "title": "Portfolio",
+        "description": "Mon site personnel développé avec React et PHP.",
+        "techs": [
+            "React",
+            "Tailwind",
+            "PHP"
+        ],
+        "image": "assets/portfolio.png",
+        "link": "https://tonsite.com"
+    },
+     {
+        "id": 4,
+        "title": "La petite Bretagne",
+        "description": "Site vitrine",
+        "techs": [
+            "React",
+            "Tailwind",
+            "PHP"
+        ],
+        "image": "assets/LaPetiteBretagne.png",
+        "link": "https://LaPetiteBretagne.com"
+    }
+]
